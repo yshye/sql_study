@@ -1,4 +1,9 @@
-# sql_study
+# 数据库学习与实训
 
-学习资料：https://github.com/jaywcjlove/mysql-tutorial
+## 基础学习
+1. [21分钟MySQL基础入门](21分钟MySQL基础入门)
+
+
+## 实训
+1. [学生-老师-课程-成绩 实战50例](学生-老师-课程-成绩 实战50例)
 

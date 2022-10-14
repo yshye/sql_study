@@ -1,4 +1,4 @@
-use samp_db;
+use basic_db;
 
 -- 创建示例表Persons
 DROP TABLE IF EXISTS `Persons`;
