@@ -2,10 +2,10 @@
 show databases;
 
 -- 创建一个名为 samp_db 的数据库，数据库字符编码指定为 gbk
-create database samp_db character set gbk;
+create database basic_db character set gbk;
 
 -- 选择创建的数据库samp_db
-use samp_db;
+use basic_db;
 
 
 -- 如果数据库中存在user_accounts表，就把它从数据库中drop掉
@@ -41,4 +41,4 @@ show tables;
 describe user_accounts;
 
 -- 删除 库名为samp_db的库
-drop database samp_db;
+drop database basic_db;
